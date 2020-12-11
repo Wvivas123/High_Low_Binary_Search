@@ -43,7 +43,7 @@ while (True):
         mybin.append(0)
     # invaild user input
     else:
-        print("Sorry I don't understand dave, is that a yes or a no?")
+        print("Sorry I don't understand dave, is that a high or low?")
 # prints number to binary
 print(bin(usernumber))
 # prints binary array
